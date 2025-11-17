@@ -1,16 +1,15 @@
-const rollNo = 12500120074
-let fname = "Rohan Dev Singh"
-var address = "Panagarh"
-college = "BCET"
-let collegRoll
+const rollNo = 2301920310100
+let fname = "Priyanshu Mehta"
+var address = "Greater Noida"
+college = "GLBITM"
+let collegRoll;
 
 console.log(rollNo)
+console.log(fname);
 
-fname = "Rohan Dev"
-address = "Durgapur"
-College = "M.I.S"
-
-console.log(rollNo);
+fname = "Nitish Yadav"
+address = "Delhi"
+College = "GU"
 
 console.table([rollNo, fname, address, college, collegRoll])
 
